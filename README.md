@@ -1,10 +1,5 @@
 Oláááá! Me chamo Daniel - Bem vindo👋
 
-<!--
-**DanielMelo0/DanielMelo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Sou desenvolvedor Full Stack
 - 🌱 Estudando Frameworks pra Programação Web
 - ⚡ Em buscas de novos Desafios !
