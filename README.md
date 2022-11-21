@@ -1,7 +1,7 @@
 Oláááá! Me chamo Daniel - Bem vindo👋
 
-- 🔭 Sou desenvolvedor Full Stack
-- 🌱 Estudando Frameworks pra Programação Web
+- 🔭 Desenvolvedor Full Stack, Mobile e Sistemas Web.
+- 🌱 Estudando Frameworks Desenvolvimento Front End e BackEnd
 - ⚡ Em buscas de novos Desafios !
 
 <div align="center">
