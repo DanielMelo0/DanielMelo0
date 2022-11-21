@@ -1,6 +1,7 @@
 ## Olá Me chamo Daniel - Bem vindo ao meu Github.👋
 
-- 🔭 Desenvolvedor Full Stack, Mobile e Sistemas Web.
+- 🔭 Analise e Desenvolvimento de Sistemas.
+- ⚡ Desenvolvedor Full Stack, Mobile e Sistemas Web.
 - 🌱 Estudando Frameworks Desenvolvimento Front End e BackEnd
 - ⚡ Em buscas de novos Desafios !
 
