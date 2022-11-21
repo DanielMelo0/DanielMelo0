@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Sou desenvolvedor Full Stack
 - 🌱 Estudando Frameworks pra Programação Web
 - ⚡ Em buscas de novos Desafios !
+
 <div align="center">
   <a href="https://github.com/DanielMelo0/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
