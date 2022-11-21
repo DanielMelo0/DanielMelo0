@@ -6,7 +6,7 @@
 - ⚡ Em buscas de novos Desafios !
 
 ##
-title_color 2f80ed;
+
 <div align="center">
   <a href="https://github.com/DanielMelo0/">   
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=DanielMelo0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
