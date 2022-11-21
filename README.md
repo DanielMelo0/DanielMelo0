@@ -1,4 +1,4 @@
-## Oláááá! Me chamo Daniel - Bem vindo ao meu Github.👋
+## Oláá Me chamo Daniel - Bem vindo ao meu Github.👋
 
 - 🔭 Desenvolvedor Full Stack, Mobile e Sistemas Web.
 - 🌱 Estudando Frameworks Desenvolvimento Front End e BackEnd
@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/DanielMelo0/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielMelo0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielMelo0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
