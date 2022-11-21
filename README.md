@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.sv](https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif](https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fcheeryseparategoldeneye&psig=AOvVaw0RGmer6jbGG7YFu4iOh4-e&ust=1669096252090000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjZiZvKvvsCFQAAAAAdAAAAABAE)" />
+  <img src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
 </div>
   
 ##
