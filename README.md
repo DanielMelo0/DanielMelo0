@@ -1,4 +1,4 @@
-## Olá Me chamo Daniel - Bem vindo ao meu Github.👋
+## Olá ! Me chamo Daniel Melo. - Seja Bem vindo ao meu Github.👋
 
 - 🔭 Analise e Desenvolvimento de Sistemas.
 - ⚡ Desenvolvedor Full Stack, Mobile e Sistemas Web.
@@ -11,7 +11,7 @@
   <a href="https://github.com/DanielMelo0/">   
   <img height="167em"  src="https://github-readme-stats.vercel.app/api?username=DanielMelo0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="157em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="137em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>   
 
 <div style="display: inline_block"><br>
