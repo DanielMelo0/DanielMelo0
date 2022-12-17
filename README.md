@@ -3,7 +3,7 @@
 - 🔭 Analise e Desenvolvimento de Sistemas.
 - ⚡ Desenvolvedor Full Stack, Mobile e Sistemas Web em Geral.
 - 🌱 Estudando Frameworks de Desenvolvimento Front e Back End.
-- ⚡ Em buscas de novos Desafios!
+- ✨ Em buscas de novos Desafios!
 
 ##
 
