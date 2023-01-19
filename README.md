@@ -32,7 +32,7 @@
   <img align="center" height="40" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img align="right" alt="Dani-Pikashu" height="115" width="160" src="http://pa1.narvii.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_00.gif" />
+  <img align="right" alt="Dani-Pikashu" height="120" width="160" src="http://pa1.narvii.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_00.gif" />
 </div>
   
 ##
