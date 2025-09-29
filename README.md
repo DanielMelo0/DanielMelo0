@@ -4,7 +4,7 @@
 - ⚡ Desenvolvedor Full Stack. 
 - 🌱 Estudando Frameworks de Desenvolvimento Front e Back End.  
 - 📚 Estudando Técnicas de Design e UX / UI.           
-- ✨ Em buscas de novos Desafios!                   
+- ✨ Em buscas de novos Desafios!                    
    
 ##         
     
