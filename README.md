@@ -1,7 +1,7 @@
 ## Olá ! Me chamo Daniel Melo - Seja Bem vindo ao meu Perfil do Github ! 👋     
  
 - 🔭 Analise e Desenvolvimento de Sistemas.  
-- ⚡ Desenvolvedor Full Stack. 
+- ⚡ Desenvolvedor Full Stack.  
 - 🌱 Estudando Frameworks de Desenvolvimento Front e Back End.  
 - 📚 Estudando Técnicas de Design e UX / UI.           
 - ✨ Em buscas de novos Desafios!                     
