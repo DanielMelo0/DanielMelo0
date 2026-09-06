@@ -59,23 +59,19 @@ const daniel = {
 
 🎯 Atualmente
 <div align="center">
-💻 Desenvolvimento	📚 Aprendizado	🎨 Criatividade
-Projetos Full Stack	Arquitetura de Software	UX/UI & Design
-Front-end & Back-end	Boas práticas	Experiência do usuário
-APIs & Integrações	Novas tecnologias	Interfaces modernas
-</div> <br> <div align="center">
 
-🚀 Sempre aprendendo, construindo e evoluindo.
-
-Buscando novos desafios e oportunidades para transformar ideias em soluções digitais.
-
+💻 Desenvolvendo projetos Full Stack
+📚 Estudando arquitetura e boas práticas de desenvolvimento
+🌱 Aprimorando conhecimentos em Front-end e Back-end
+🎨 Explorando UX/UI e Design
+🚀 Buscando novos desafios e oportunidades em tecnologia
 </div>
 📫 Entre em contato
-<div align="center"> <a href="mailto:danielmelo9001i@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.instagram.com/daniiel_meloo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://github.com/DanielMelo0" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <br> <div align="center">
-👋 Obrigado pela visita!
+<div align="center"> <a href="mailto:danielmelo9001i@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/daniiel_meloo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/DanielMelo0" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
+
+Obrigado pela visita! 👋
 
 Transformando ideias em código e código em soluções. 🚀
-
 </div>
 
 🎯 Atualmente
