@@ -54,8 +54,8 @@ const daniel = {
 🚀 Projetos
 <div align="center"> <a href="https://github.com/DanielMelo0/Expense-Tracker-with-React"> <img src="https://img.shields.io/badge/💰%20Expense%20Tracker%20with%20React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Expense Tracker with React" /> </a> <a href="https://github.com/DanielMelo0/Spring-Boot-Rest-API-Web-Project"> <img src="https://img.shields.io/badge/☕%20Spring%20Boot%20REST%20API-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot REST API Web Project" /> </a> </div> <br> <div align="center">
 
-</div> <br> <div align="center"> <a href="https://github.com/DanielMelo0?tab=repositories"> <img src="https://img.shields.io/badge/📂%20Ver%20todos%20os%20repositórios-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" /> </a> </div>
-
+</div>  <div align="center"> <a href="https://github.com/DanielMelo0?tab=repositories"> <img src="https://img.shields.io/badge/📂%20Ver%20todos%20os%20repositórios-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" /> </a> </div>
+<br>
 
 🎯 Atualmente
 🔭 Desenvolvendo projetos Full Stack.
