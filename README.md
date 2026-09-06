@@ -39,7 +39,12 @@ const daniel = {
 🛠️ Ferramentas
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="WordPress"/> </div>
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMelo0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielMelo0&theme=tokyonight&hide_border=true" /> </div>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMelo0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Daniel's GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Daniel's Top Languages" />
+</div> 
 📈 Atividade no GitHub
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielMelo0&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
 🐍 Contribuições
