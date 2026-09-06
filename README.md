@@ -45,8 +45,7 @@ const daniel = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Daniel's Top Languages" />
 </div> 
-📈 Atividade no GitHub
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielMelo0&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
+
 🐍 Contribuições
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> </picture> </div>
 🚀 Projetos
