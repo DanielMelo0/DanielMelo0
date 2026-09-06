@@ -38,14 +38,7 @@ const daniel = {
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL"/> </div>
 🛠️ Ferramentas
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="WordPress"/> </div>
-📊 GitHub Stats
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMelo0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Daniel's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Daniel's Top Languages" />
-</div> 
-
+ 
 🐍 Contribuições
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> </picture> </div>
 🚀 Projetos
