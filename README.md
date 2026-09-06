@@ -50,7 +50,7 @@ const daniel = {
 🐍 Contribuições
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> </picture> </div>
 🚀 Projetos
-<div align="center"> <a href="https://github.com/DanielMelo0?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielMelo0&repo=SEU-REPOSITORIO-1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/DanielMelo0?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielMelo0&repo=SEU-REPOSITORIO-2&theme=tokyonight&hide_border=true" /> </a> </div>
+<div align="center"> <a href="https://github.com/DanielMelo0?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielMelo0&repo=Expense-Tracker-with-React&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/DanielMelo0?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielMelo0&repo=SEU-REPOSITORIO-2&theme=tokyonight&hide_border=true" /> </a> </div>
 
 💡 Substitua SEU-REPOSITORIO-1 e SEU-REPOSITORIO-2 pelos nomes dos seus principais projetos.
 
