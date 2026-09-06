@@ -69,22 +69,12 @@ const daniel = {
 📫 Entre em contato
 <div align="center"> <a href="mailto:danielmelo9001i@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/daniiel_meloo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/DanielMelo0" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
 
-Obrigado pela visita! 👋
+💙 Obrigado pela visita!
 
 Transformando ideias em código e código em soluções. 🚀
 </div>
 
-🎯 Atualmente
-🔭 Desenvolvendo projetos Full Stack.
-🌱 Aprofundando conhecimentos em Front-end e Back-end.
-📚 Estudando arquitetura e boas práticas de desenvolvimento.
-🎨 Aprimorando conhecimentos em UX/UI e Design.
-🚀 Buscando novos desafios e oportunidades na área de tecnologia.
-📫 Entre em contato
-<div align="center"> <a href="mailto:danielmelo9001i@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/daniiel_meloo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/DanielMelo0" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <!-- Adicione seu LinkedIn quando tiver o link --> <!-- <a href="SEU-LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> --> </div>
-<div align="center">
-💙 Obrigado pela visita!
 
-"Transformando ideias em código e código em soluções." 🚀
+
 
 <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:161B22,100:0D1117&height=120&section=footer"/> </div>
