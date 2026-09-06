@@ -10,6 +10,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Front-end e 
 
 Também tenho interesse em Design, UX/UI e experiência do usuário, buscando unir código, funcionalidade e uma boa experiência visual.
 
+```javascript
 const daniel = {
   name: "Daniel Melo",
   role: "Full Stack Developer",
@@ -36,26 +37,7 @@ const daniel = {
 
   goal: "Transformar ideias em soluções através da tecnologia 🚀"
 };
-
-
-const daniel = {
-    name: "Daniel Melo",
-    role: "Full Stack Developer",
-    education: "Análise e Desenvolvimento de Sistemas",
-    focus: [
-        "Front-end",
-        "Back-end",
-        "APIs",
-        "Database",
-        "UX/UI"
-    ],
-    currentlyLearning: [
-        "Modern Web Development",
-        "Software Architecture",
-        "UI/UX"
-    ],
-    goal: "Transformar ideias em soluções através da tecnologia 🚀"
-};
+```
 
 
 🚀 Tecnologias & Ferramentas
