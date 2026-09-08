@@ -1,7 +1,7 @@
 <!-- BANNER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=220&section=header&text=Daniel%20Melo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%"/> </div> <div align="center">
 👋 Olá, eu sou o Daniel Melo!
 💻 Full Stack Developer | 🎓 ADS | 🚀 Tecnologia & Inovação
-<p> <a href="https://github.com/DanielMelo0"> <img src="https://img.shields.io/github/followers/DanielMelo0?style=for-the-badge&logo=github&label=Followers&color=0D1117"/> </a> <img src="https://komarev.com/ghpvc/?username=DanielMelo0&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/> </p> </div>
+<p> <a href="https://github.com/DanielMelo0"> <img src="https://img.shields.io/github/followers/DanielMelo0?style=for-the-badge&logo=github&label=Followers&color=0D1117"/> </a> <img src="https://komarev.com/ghpvc/?username=DanielMelo0&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/> </p> </div> 
 🧑‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack, apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
