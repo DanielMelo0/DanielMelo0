@@ -50,8 +50,8 @@ const daniel = {
 🐍 Contribuições
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> </picture> </div>
 
-  <img height="156rem" src="https://github-readme-stats-sable-seven.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F6&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior Github stats"/> 
-  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
+  <img height="156rem" src="https://github-readme-stats-sable-seven.vercel.app/api?username=DanielMelo0&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F6&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Melo Github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&hide_border=true&hide=html,css,svg,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
 
 
 
