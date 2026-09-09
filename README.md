@@ -52,7 +52,7 @@ const daniel = {
 
 <div align=center>
   <img height="156rem" src="https://github-readme-stats-sable-seven.vercel.app/api?username=DanielMelo0&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F6&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Melo Github stats"/> 
-  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&hide_border=true&hide=hack,&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
+  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=DanielMelo0&layout=compact&hide_border=true&hide=markdown,&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
 </div>
 
 
