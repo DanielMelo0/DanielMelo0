@@ -50,6 +50,10 @@ const daniel = {
 🐍 Contribuições
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DanielMelo0/DanielMelo0/output/github-snake.svg"> </picture> </div>
 
+  <img height="156rem" src="https://github-readme-stats-sable-seven.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F6&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior Github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
+
+
 
 🚀 Projetos
 <div align="center"> <a href="https://github.com/DanielMelo0/Expense-Tracker-with-React"> <img src="https://img.shields.io/badge/💰%20Expense%20Tracker%20with%20React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Expense Tracker with React" /> </a> <a href="https://github.com/DanielMelo0/Spring-Boot-Rest-API-Web-Project"> <img src="https://img.shields.io/badge/☕%20Spring%20Boot%20REST%20API-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot REST API Web Project" /> </a> </div> <br> <div align="center">
