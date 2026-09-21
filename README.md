@@ -3,6 +3,7 @@
 <div align="center">
 👋 Olá, eu sou o Daniel Melo!
 💻 Full Stack Developer | 🎓 ADS | 🚀 Tecnologia & Inovação
+<br>
 <p> <a href="https://github.com/DanielMelo0"> <img src="https://img.shields.io/github/followers/DanielMelo0?style=for-the-badge&logo=github&label=Followers&color=0D1117"/> </a> <img src="https://komarev.com/ghpvc/?username=DanielMelo0&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/></p>
 </div> 
 
