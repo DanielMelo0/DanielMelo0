@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=220&section=header&text=Daniel%20Melo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
-<div align="center"> 
+<div align="center">  
 👋 Olá, eu sou o Daniel Melo!
 💻 Full Stack Developer | 🎓 ADS | 🚀 Tecnologia & Inovação
 <br><br>
