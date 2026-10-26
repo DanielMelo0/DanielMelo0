@@ -120,7 +120,7 @@ const daniel = {
 🚀 Em busca de novos desafios
 </div>
 📫 Entre em contato
-<div align="center"> <a href="mailto:danielmelo9001i@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/daniiel_meloo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/DanielMelo0" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
+<div align="center"> <a href="mailto:danielmelo9001@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/daniiel_meloo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/DanielMelo0" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
 
 💙 Obrigado pela visita!
 
